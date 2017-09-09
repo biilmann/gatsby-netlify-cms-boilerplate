@@ -3,8 +3,7 @@ backend:
   repo: AustinGreen/gatsby-netlify-cms-boilerplate # Path to your Github repository
   branch: master # Branch to update
 
-media_folder: "src/img"
-public_folder: "/public/static"
+media_folder: "/static"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog

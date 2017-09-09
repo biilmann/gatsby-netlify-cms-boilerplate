@@ -1,7 +1,7 @@
 ---
 layout: blog
 path: /math
-date: 2016-12-10T05:00:00.000Z
+date: '2016-12-10T05:00:00.000Z'
 title: Pierre de Fermat
 ---
 ![null](/public/static/download.jpeg)
