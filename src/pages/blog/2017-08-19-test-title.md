@@ -1,7 +1,7 @@
 ---
 layout: blog
 path: /test-title-17
-date: 2017-08-19T13:36:59.613Z
+date: 2018-02-01T00:00:00-05:00
 title: Test Title
 ---
 An h2 header
