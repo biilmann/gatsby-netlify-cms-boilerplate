@@ -4,9 +4,6 @@ path: /math
 date: '2016-12-10T05:00:00.000Z'
 title: Pierre de Fermat
 ---
-![null](/public/static/download.jpeg)
-
-![null](/static/oskar-vertetics-53043.jpg)
 
 Pierre de Fermat (French: \[pjɛːʁ də fɛʁma\]; (Between 31 October and 6 December 1607\[1\] – 12 January 1665) was a French lawyer at the Parlement of Toulouse, France, and a mathematician who is given credit for early developments that led to infinitesimal calculus, including his technique of adequality. In particular, he is recognized for his discovery of an original method of finding the greatest and the smallest ordinates of curved lines, which is analogous to that of differential calculus, then unknown, and his research into number theory. He made notable contributions to analytic geometry, probability, and optics. He is best known for his Fermat's principle for light propagation and his [Fermat's Last Theorem](https://en.wikipedia.org/wiki/Fermat%27s_principle) in number theory, which he described in a note at the margin of a copy of Diophantus' Arithmetica.
 
