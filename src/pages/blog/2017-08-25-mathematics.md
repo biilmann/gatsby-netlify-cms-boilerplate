@@ -1,7 +1,7 @@
 ---
 layout: blog
 path: /math
-date: '2016-12-10T05:00:00.000Z'
+date: 2017-09-28T00:00:00-04:00
 title: Pierre de Fermat
 ---
 
@@ -20,3 +20,4 @@ Bust in the Salle des Illustres in **Capitole de Toulouse**
 He attended the University of Orléans from 1623 and received a bachelor in civil law in 1626, before moving to Bordeaux. In Bordeaux he began his first serious mathematical researches, and in 1629 he gave a copy of his restoration of Apollonius's De Locis Planis to one of the mathematicians there. Certainly in Bordeaux he was in contact with Beaugrand and during this time he produced important work on maxima and minima which he gave to Étienne d'Espagnet who clearly shared mathematical interests with Fermat. There he became much influenced by the work of François Viète.
 
 In 1630, he bought the office of a councillor at the *Parlement de Toulouse*, one of the High Courts of Judicature in France, and was sworn in by the Grand Chambre in May 1631. He held this office for the rest of his life. Fermat thereby became entitled to change his name from Pierre Fermat to Pierre de Fermat. Fluent in six languages (French, Latin, Occitan, classical Greek, Italian and Spanish), Fermat was praised for his written verse in several languages and his advice was eagerly sought regarding the emendation of Greek texts.
+
