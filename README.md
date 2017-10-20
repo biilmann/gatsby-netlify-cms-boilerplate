@@ -10,7 +10,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 Use our deploy button to get your own copy of the repository.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/biilmann/cms-identity-demo&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/biilmann/gatsby-netlify-cms-boilerplate&stack=cms)
 
 This will setup everything needed for running the CMS:
 
