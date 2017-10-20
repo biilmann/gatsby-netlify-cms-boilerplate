@@ -6,6 +6,23 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ## Getting Started
 
+### One Click Setup
+
+Use our deploy button to get your own copy of the repository.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/biilmann/cms-identity-demo&stack=cms)
+
+This will setup everything needed for running the CMS:
+
+* A new repository in your GitHub account with the code
+* Full Continuous Deployment to Netlify's global CDN network
+* Control users and access with Netlify Identity
+* Manage content with Netlify CMS
+
+Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
+
+Now you're all set, and you can start editing content!
+
 ### Prerequisites
 
 - Node (I recommend using v8.7.0 or higher)
